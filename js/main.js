@@ -1,7 +1,7 @@
 var ourRequest = new XMLHttpRequest();
 ourRequest.open(
   "GET",
-  "https://raw.githubusercontent.com/davidcastro96/heroes-app/main/heroes.json?token=ALOFPYUO4N2RHLKZX7AFE3LABRPSO"
+  "https://raw.githubusercontent.com/davidcastro96/heroes/main/heroes.json"
 );
 ourRequest.onload = function () {
   var ourDate = JSON.parse(ourRequest.responseText);
