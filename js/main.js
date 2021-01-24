@@ -5,12 +5,11 @@ ourRequest.open(
 );
 ourRequest.onload = function () {
   var ourDate = JSON.parse(ourRequest.responseText);
-  console.log(ourDate.heroes[2]);
+  console.log(ourDate);
 };
 ourRequest.send();
 
-/* este es el main que creaste */
-var votepositive = 30;
+var votepositive = 20;
 var votenegative = 18;
 
 function voteLike() {
