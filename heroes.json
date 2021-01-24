@@ -1,0 +1,31 @@
+[{
+   "name": "Ironman",
+   "details": "Detalles del heroe",
+   "like": 88,
+   "dislike": 12
+ },
+ {
+   "name": "Superman",
+   "details": "Detalles del heroe",
+   "like": 64,
+   "dislike": 36
+ },
+ {
+  "name": "Thor",
+  "details": "Detalles del heroe",
+  "like": 36,
+  "dislike": 64
+ },
+ {
+  "name": "Batman",
+  "details": "Detalles del heroe",
+  "like": 36,
+  "dislike": 64
+ },
+ {
+  "name": "Spiderman",
+  "details": "Detalles del heroe",
+  "like": 64,
+  "dislike": 36
+ }
+]
